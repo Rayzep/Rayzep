@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+I’m a student currently studying BS Computer Applications Major in Internet of Things at MSUIIT.
 <!--
 **Rayzep/Rayzep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
